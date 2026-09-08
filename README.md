@@ -93,12 +93,15 @@ My main interests include:
 
 | Project | Description | Core Technologies |
 |---|---|---|
-| **Structural Monitoring Research** | Applied research project combining computer vision, pose estimation, and numerical modeling for structural analysis and monitoring. | Python, Computer Vision, Deep Learning, MATLAB |
-| **Computer Vision Classification** | End-to-end image classification workflow: data preparation, model training, evaluation, and inference. | Python, PyTorch / TensorFlow, OpenCV |
-| **Data Analysis Dashboard** | Interactive dashboard for data cleaning, exploration, visualization, and decision support. | Python, Pandas, Streamlit, Plotly |
-| **Machine Learning API** | REST API designed to serve predictive models to web or mobile applications. | FastAPI, Python, Docker |
-| **Flutter Mobile Application** | Mobile application featuring authentication, REST API integration, dashboards, payments, and PDF generation. | Flutter, Dart, REST APIs, Supabase |
-| **RAG Document Assistant** | AI assistant prototype for document retrieval, semantic search, and answer generation. | Python, LLMs, Embeddings, Vector Search |
+| Structural Deflection Detection — Master's Research | Master's research at AIMS Senegal on estimating the deflection angle of buildings exposed to strong winds using Machine Learning, Computer Vision, pose estimation, and YOLO-based models. | Python, Computer Vision, Deep Learning, YOLO, Pose Estimation |
+| [Building Crack Detection](https://github.com/jeanbayiha24/IBM_AI_CapstoneProject) | Computer Vision project for detecting cracks in building walls using pre-trained deep-learning models. | Python, Deep Learning, Transfer Learning, Computer Vision |
+| [Brain MRI Tumor Classification](https://github.com/jeanbayiha24/brain_cancer_image_classifier) | MRI image classifier that distinguishes four classes: glioma, meningioma, pituitary tumor, and no tumor. The project includes implementations with both TensorFlow and PyTorch. | Python, TensorFlow, PyTorch, Computer Vision |
+| [Vehicle Detection and Tracking](https://github.com/jeanbayiha24/group3_car_detection_tracking) | Video-based Computer Vision system for detecting and tracking vehicles and specific road objects such as ambulances, trucks, and motorcycles, while recording their positions and movements over time. | Python, Object Detection, Object Tracking, Computer Vision |
+| [Wolof–French Speech Recognition Prototype](https://github.com/jeanbayiha24/prototype_asr_wolof_french) | Prototype for Wolof automatic speech recognition with a Wolof-to-French translation demonstration, designed around local-language AI applications. | Python, Automatic Speech Recognition, NLP, Machine Translation |
+| [Car Price Prediction Web Application](https://github.com/jeanbayiha24/Group2_Web_Project_Flask) | Machine Learning web application that predicts a car's price from its characteristics through a Flask-based interface and API. | Python, Machine Learning, Flask, REST API |
+| [Renewable Energy Infrastructure Optimization](https://github.com/jeanbayiha24/NumericalOptimization) | Numerical optimization project focused on renewable-energy infrastructure planning for climate-change mitigation. | Python, Numerical Optimization, Jupyter Notebook |
+| [Air Quality Data Analysis — Dakar & Douala](https://github.com/jeanbayiha24/DataPreprocessing) | Comparative data-preprocessing and exploratory-analysis project on air-quality data from Dakar, Senegal, and Douala, Cameroon. | Python, Data Preprocessing, Data Analysis, Jupyter Notebook |
+| [Banking77 Intent Detection](https://github.com/jeanbayiha24/Intent_Detection_on_Banking77) | Natural Language Processing project for identifying customer intents in the banking domain using the Banking77 dataset. | Python, NLP, Text Classification, Machine Learning |
 
 > I am continuously improving these projects and publishing clean, reproducible repositories with documentation, demonstrations, and results.
 
