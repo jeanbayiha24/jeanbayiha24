@@ -107,7 +107,7 @@ My main interests include:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
   <img
