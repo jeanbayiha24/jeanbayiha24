@@ -111,22 +111,8 @@ My main interests include:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jeanbayiha24&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=20260908"
-    alt="Jean Bayiha's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=jeanbayiha24&theme=tokyonight&hide_border=true"
     alt="Jean Bayiha's GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbayiha24&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=20260908"
-    alt="Most used languages"
   />
 </p>
 
